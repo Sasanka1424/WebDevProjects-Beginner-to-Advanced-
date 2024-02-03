@@ -25,8 +25,8 @@ Technologies Used: List of technologies or languages used:
 Project Link: Link to Project One
 
 
-License
+License:
 This project is licensed under the MIT License.
 
-Acknowledgments
+Acknowledgments:
 Give credit to any resources, tutorials, or inspiration used in creating these projects.
